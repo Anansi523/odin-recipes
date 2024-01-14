@@ -1,0 +1,22 @@
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: medium;
+}
+
+h1 {
+    font-size: large;
+    font-family: fantasy;
+    font-style: italic;
+}
+
+h2 {
+    font-family: cursive;
+    color: aqua;
+    font-size: larger;
+}
+
+div {
+    background-color: cadetblue;
+    text-align: center;
+}
